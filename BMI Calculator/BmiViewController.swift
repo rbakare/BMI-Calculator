@@ -1,7 +1,7 @@
 //
 //  BmiViewController.swift
 //  BMI Calculator
-//
+// StudentId: 300973581
 //  Created by Raheem Bakare on 2018-12-13.
 //  Copyright © 2018 centennial college. All rights reserved.
 //

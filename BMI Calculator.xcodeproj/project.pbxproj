@@ -17,6 +17,7 @@
 		57CEEA5521C34DDF0025495E /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57CEEA5421C34DDF0025495E /* Calculator.swift */; };
 		57CEEA5721C34F160025495E /* CalculatorTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57CEEA5621C34F160025495E /* CalculatorTableViewController.swift */; };
 		57CEEA5921C34F7B0025495E /* BmiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57CEEA5821C34F7B0025495E /* BmiViewController.swift */; };
+		57CEEA5B21C352890025495E /* BmiDetailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57CEEA5A21C352890025495E /* BmiDetailTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		57CEEA5421C34DDF0025495E /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
 		57CEEA5621C34F160025495E /* CalculatorTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorTableViewController.swift; sourceTree = "<group>"; };
 		57CEEA5821C34F7B0025495E /* BmiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BmiViewController.swift; sourceTree = "<group>"; };
+		57CEEA5A21C352890025495E /* BmiDetailTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BmiDetailTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,9 +68,10 @@
 			children = (
 				57CEEA3721C32E700025495E /* AppDelegate.swift */,
 				57CEEA5621C34F160025495E /* CalculatorTableViewController.swift */,
+				57CEEA5A21C352890025495E /* BmiDetailTableViewCell.swift */,
+				57CEEA5821C34F7B0025495E /* BmiViewController.swift */,
 				57CEEA5421C34DDF0025495E /* Calculator.swift */,
 				57CEEA3B21C32E700025495E /* Main.storyboard */,
-				57CEEA5821C34F7B0025495E /* BmiViewController.swift */,
 				57CEEA4121C32E730025495E /* Assets.xcassets */,
 				57CEEA4321C32E730025495E /* LaunchScreen.storyboard */,
 				57CEEA4E21C3309D0025495E /* bmi2.jpg.png */,
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				57CEEA5521C34DDF0025495E /* Calculator.swift in Sources */,
+				57CEEA5B21C352890025495E /* BmiDetailTableViewCell.swift in Sources */,
 				57CEEA3821C32E700025495E /* AppDelegate.swift in Sources */,
 				57CEEA4021C32E700025495E /* BMI_Calculator.xcdatamodeld in Sources */,
 				57CEEA5921C34F7B0025495E /* BmiViewController.swift in Sources */,
